@@ -13,3 +13,5 @@ read_data <- gapminder
 dir.create("images")
 dir.create("docs")
 dir.create("figures")
+
+# Doug said that he will send us the training manual
